@@ -1,4 +1,4 @@
-# Viewer for PlanetLabs.Api
+# Viewer for PlanetLabs
 
 Javascript viewer for recent images (last month) from PlanetLabs (https://www.planet.com/)
 
