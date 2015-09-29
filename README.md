@@ -6,7 +6,7 @@ Javascript viewer for recent images (last month) from PlanetLabs (https://www.pl
 
 # Techniques used
 
-Leaflet, JQuery
+Leaflet 0.7.5, JQuery 2.1.4
 
 Contains sample code for:
 
