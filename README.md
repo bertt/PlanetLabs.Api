@@ -27,3 +27,8 @@ copy config-sample.js config.js
 // and change the api key in config.js
 
 // and run on your favorite webserver
+
+# Usage
+
+Zoom in to tiling level 8 to retrieve the scenes
+
