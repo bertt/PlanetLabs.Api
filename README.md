@@ -8,6 +8,14 @@ Javascript viewer for recent images (last month) from PlanetLabs (https://www.pl
 
 Leaflet, JQuery
 
+Contains sample code for:
+
+. Query PlanetLabs API scenes based on area (GeoJSON) and time (scene acquired)
+
+. PlanetLabs API Authentication
+
+. Add Leaflet tilelayers for a PlanetLabs scene 
+
 # Installation
 
 git checkout
