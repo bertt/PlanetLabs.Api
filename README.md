@@ -18,13 +18,15 @@ Contains sample code for:
 
 # Installation
 
-git checkout
+git clone https://github.com/bertt/PlanetLabs.Api.git
+
+cd PlanetLabs.Api 
 
 bower install
 
 copy config-sample.js config.js
 
-// and change the api key in config.js
+// and insert your PlanetLabs api key in config.js
 
 // and run on your favorite webserver
 
