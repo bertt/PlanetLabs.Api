@@ -1,0 +1,24 @@
+{
+  "name": "PlanetLabs.Api",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bertt/PlanetLabs.Api",
+  "authors": [
+    "bertt"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "Leaflet.label": "~0.2.1",
+    "leaflet": "~0.7.5"
+  }
+}
