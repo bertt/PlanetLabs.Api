@@ -10,11 +10,11 @@ Leaflet, JQuery
 
 Contains sample code for:
 
-. Query PlanetLabs API scenes based on area (GeoJSON) and time (scene acquired)
+- Query PlanetLabs API scenes based on area (GeoJSON) and time (scene acquired)
 
-. PlanetLabs API Authentication
+- PlanetLabs API Authentication
 
-. Add Leaflet tilelayers for a PlanetLabs scene 
+- Add Leaflet tilelayers for a PlanetLabs scene 
 
 # Installation
 
